@@ -1,0 +1,7 @@
+#ifndef ANALIZER
+#define ANALIZER
+
+int isKeyword(char buffer[]);
+
+
+#endif

@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1671567151 source:e:\fee\level4firstterm\compiler\project\compiler\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"LexicalAnalizer/lexical_analizer.h"
+	"Parser/parser.h"
+
+1671572526 e:\fee\level4firstterm\compiler\project\compiler\lexicalanalizer\lexical_analizer.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1671623698 e:\fee\level4firstterm\compiler\project\compiler\parser\parser.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1671623852 source:e:\fee\level4firstterm\compiler\project\compiler\lexicalanalizer\lexical_analizer.cpp
+	"lexical_analizer.h"
+
+1671623650 source:e:\fee\level4firstterm\compiler\project\compiler\parser\parser.cpp
+	"parser.h"
+
